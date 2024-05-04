@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HImSoumya
-- 👀 I’m interested in ...Web Devlopment
-- 🌱 I’m currently learning ...Devops
+- 👀 I’m interested in ...Web Apps Devlopment
+- 🌱 I’m currently learning ...Next Js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Contact me through mail soumyarb2021@gmail.com
 
